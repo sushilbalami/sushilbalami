@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushilbalami&label=Profile%20views&color=0e75b6&style=flat" alt="sushilbalami" /> </p>
 
-- 🌱 I’m currently on **MERN Stack**
+- 🌱 I’m currently on **MERN Stack** Working on Quickfox Consulting
 
 - 👨‍💻 All of my projects are available at [http://sushilbalami.com.np/](http://sushilbalami.com.np/)
 
