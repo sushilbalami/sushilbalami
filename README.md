@@ -75,7 +75,7 @@ Customer relationship management and internal communication portals with seamles
 
 | Degree | Institution | Status |
 |--------|-------------|--------|
-| **M.Sc. Computer Science** | IIMS College, Kathmandu | In Progress (2024–) |
+| **M.Sc. Computer Science** | IIMS College, Kathmandu | Completed |
 | **BCA** | Everest Innovative College, Kathmandu | Completed |
 
 ---
